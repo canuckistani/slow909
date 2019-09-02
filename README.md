@@ -5,7 +5,7 @@ Not mush to see here yet.
 ### TODO:
 
 * <del>import into git
-* trim extra pages (only need one page?)
+* <del>trim extra pages (only need one page?)
 * add custom photos
 * google web fonts?
 * test test test
